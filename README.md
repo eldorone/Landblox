@@ -1,8 +1,27 @@
-# Getting Started with Webbrain Academy
+## Landblox is - modern and mobile responsive Real Estate website built with: 
+ - React JS 
+ - Redux 
+ - Styled-Components
 
-This project is available on github [Houzing](https://github.com/mukhtorov/houzing).
+# Check out the Demo: [Landblox]()
 
-# can see the DEMO [Houzing](https://netlify.com/mukhtorov/houzing).
+## Sign up & Sign in Page Layout:
+
+![Landblox](https://user-images.githubusercontent.com/37968028/206910943-ce111aa9-c5c9-4186-84ee-959ea33deafe.png)
+
+## Home Page Layout:
+
+![Landblox](https://user-images.githubusercontent.com/37968028/206910572-d303c003-b64d-4e25-a563-f25f45962f97.png)
+
+![Landblox](https://user-images.githubusercontent.com/37968028/206910676-3ba18256-bb47-41d5-a666-63b7c31aedb8.png)
+
+![Landblox](https://user-images.githubusercontent.com/37968028/206910745-e529644b-fe16-4e6a-b1bd-03b82e5a00b7.png)
+
+## Properties Page Layout:
+
+![Linkedin Clone](https://user-images.githubusercontent.com/37968028/206910853-2e0deab1-9306-48b9-83ee-7d051a141e35.png)
+
+ <br />
 
 ## Available Scripts
 
