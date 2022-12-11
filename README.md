@@ -1,9 +1,9 @@
-## Landblox is - modern and mobile responsive Real Estate website built with: 
+## Landblox - is modern and mobile responsive Real Estate website built with: 
  - React JS 
  - Redux 
  - Styled-Components
 
-# Check out the Demo: [Landblox]()
+# Check out the Demo: [Landblox](https://landblox.vercel.app/)
 
 ## Sign up & Sign in Page Layout:
 
